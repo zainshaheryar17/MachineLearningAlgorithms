@@ -1,1 +1,3 @@
 # MachineLearningAlgorithms
+## I am Shaharyar, an Electronics Engineer from the NED University of Engineering & Technology. I have been doing data science, Machine Learning, Databases, Programming, Software Development, and web development projects.
+## I love to work with new technologies. Have expertise in Data Cleaning, Data Visualization, Data Pre-Processing, Selecting and Developing Machine Learning Models, working with Databases such as MySQL and developing Entity Relationship Diagrams, Script writing in Python, C++, JavaScript, and C#, developing management desktop softwares/applications, developing Websites using HTML, CSS, JavaScript, ASP.NET, C#, etc.
